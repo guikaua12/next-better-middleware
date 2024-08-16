@@ -1,0 +1,7 @@
+node_modules
+dist
+
+# Project exclude paths
+/src/AntMatcher.js
+/src/index.js
+/src/MiddlewareManager.js
